@@ -30,7 +30,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## 📧 Contact
-For any issues or suggestions, feel free to reach out via [rudrakshrockssoohard@gmail.com](mailto:rudrakshrockssoohard@gmail.com).
+For any issues or suggestions, feel free to reach out via [Gmail](mailto:rudrakshrockssoohard@gmail.com).
 
 ---
 Enjoy seamless episode navigation with **Kaido.to Episode Navigator**! 🎉
